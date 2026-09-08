@@ -1,0 +1,11 @@
+name: variant_calling
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastqc
+  - fastp
+  - bwa
+  - samtools
+  - bcftools
+

@@ -1,0 +1,8 @@
+raw_data/*.fastq
+raw_data/*.sam
+raw_data/*.bam
+raw_data/*.bam.bai
+raw_data/raw_calls.vcf
+reference/*.fna.*
+reference/ncbi_dataset*
+
