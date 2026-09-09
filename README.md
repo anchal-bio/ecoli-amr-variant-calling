@@ -76,7 +76,7 @@ Using a single reference strain (K-12 MG1655) means some detected variants may r
 ## Reproducing this pipeline
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/anchal-bio/ecoli-amr-variant-calling.git)
 cd variant_calling_project
 conda env create -f environment.yml
 conda activate variant_calling
