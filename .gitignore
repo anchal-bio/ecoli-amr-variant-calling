@@ -5,4 +5,6 @@ raw_data/*.bam.bai
 raw_data/raw_calls.vcf
 reference/*.fna.*
 reference/ncbi_dataset*
-
+raw_data/*.html
+raw_data/*.zip
+raw_data/*.json
